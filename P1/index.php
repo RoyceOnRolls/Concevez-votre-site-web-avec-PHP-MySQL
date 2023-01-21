@@ -1,3 +1,3 @@
 <?php
-
-echo "Exécution de PHP";
+$fullname = "Royce";
+echo "Bonjour $fullname et bienvenue sur le site !";
